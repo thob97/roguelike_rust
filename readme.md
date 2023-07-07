@@ -45,8 +45,8 @@ Installation of rust:
  - `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 
 Cloning the repo:
- - `git clone todo`
- - `cd roguelike_in_rust`
+ - `git clone https://github.com/thob97/roguelike_rust.git`
+ - `cd roguelike_rust`
 
  ### Compile and run
  - `cargo build --release`
@@ -54,10 +54,9 @@ Cloning the repo:
 
 ## Example pictures
 <p float="left">
-    <img src="./example_pictures/pic1.png"  width="30%" height="30%">
-    <img src="./example_pictures/pic2.png"  width="30%" height="30%">
-    <img src="./example_pictures/pic3.png"  width="30%" height="30%">
-    <img src="./example_pictures/pic4.png"  width="30%" height="30%">
+    <img src="./example_pictures/pic_1.png"  width="30%" height="30%">
+    <img src="./example_pictures/pic_2.png"  width="30%" height="30%">
+    <img src="./example_pictures/pic_3.png"  width="30%" height="30%">
 </p>
 
 ## Contribution
