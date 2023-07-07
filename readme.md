@@ -1,5 +1,7 @@
 # Roguelike in Rust
-
+<p float="left">
+    <img src="./example_pictures/title_pic.png"  width="20%" height="20%">
+</p>
 Thesis / Project for the Programming with Rust course. The aim of this project is to create an original work based on individual concepts. Our chosen endeavor involves developing a roguelike game using the Rust programming language. Roguelike games are a distinctive subgenre of role-playing video games known for their immersive dungeon crawling mechanics, procedurally generated levels, turn-based gameplay, tile-based graphics, and the unforgiving aspect of permanent character death. These games often draw inspiration from the captivating narratives found in high fantasy settings, reflecting their origins in tabletop role-playing games such as Dungeons & Dragons. (Reference: https://en.wikipedia.org/wiki/Roguelike)
 
 ## Table Of Content
