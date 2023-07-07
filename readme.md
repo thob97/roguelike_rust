@@ -61,7 +61,7 @@ Cloning the repo:
     <img src="./example_pictures/pic_3.png"  width="30%" height="30%">
 </p>
 
-## Controlls
+## Controls
 - arrow keys: movement
 - spacebar: sword
 - num 1 key: shovel (removes tiles)
