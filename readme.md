@@ -61,6 +61,13 @@ Cloning the repo:
     <img src="./example_pictures/pic_3.png"  width="30%" height="30%">
 </p>
 
+## Controlls
+- arrow keys: movement
+- spacebar: sword
+- num 1 key: shovel (removes tiles)
+- num 2 key: bucket (places tiles)
+- num 3 key: bow (shoots arrows)
+
 ## Contribution
 
 - [Thore Brehmer](https://github.com/thob97)
