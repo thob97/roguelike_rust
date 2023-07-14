@@ -15,6 +15,7 @@ Thesis / Project for the Programming with Rust course. The aim of this project i
   - [Compile and run](#compile-and-run)
 - [Example pictures](#example-pictures)
 - [Contribution](#contribution)
+- [See also](#see-also)
 
 
 ## Course content
@@ -75,3 +76,6 @@ Cloning the repo:
 - [Qianli Wang](https://github.com/qiaw99)
 - Jonny Lam
 - David Ly
+  
+## See also
+* [Uni Overview](https://github.com/thob97/uni_overview.git)
